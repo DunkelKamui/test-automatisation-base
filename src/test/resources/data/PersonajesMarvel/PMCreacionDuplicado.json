@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Spiderman",
+    "alterego": "Peter Parker",
+    "description": "Joven estudiante",
+    "powers": ["Sentido arácnido", "Agilidad sobrehumana"]
+  },
+  {
+    "name": "Spiderman",
+    "alterego": "Otro",
+    "description": "Otro",
+    "powers": ["Tela de araña"]
+  }
+]

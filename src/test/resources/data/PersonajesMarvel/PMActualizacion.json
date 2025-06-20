@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Thor",
+    "alterego": "Thor Odinson",
+    "description": "Dios del Trueno",
+    "powers": ["Thunder"]
+  },
+  {
+  "name": "Thor",
+  "alterego": "Thor Odinson",
+  "description": "Updated description",
+  "powers": ["Thunder", "Flight"]
+  }
+]

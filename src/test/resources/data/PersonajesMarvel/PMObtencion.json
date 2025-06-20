@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Capitan America",
+    "alterego": "Steve Rogers",
+    "description": "Genetic modified soldier",
+    "powers": ["Agility", "Shield"]
+  },
+  {
+    "name": "Hulk",
+    "alterego": "Bruce Banner",
+    "description": "Genius scientist",
+    "powers": ["Super strength", "Regeneration"]
+  },
+  {
+    "name": "Black Widow",
+    "alterego": "Natasha Romanoff",
+    "description": "Expert spy and assassin",
+    "powers": ["Martial arts", "Stealth"]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "Wolverine",
+  "alterego": "Logan",
+  "description": "Mutant with healing factor and claws",
+  "powers": [
+    "Regeneration",
+    "Claws",
+    "Super strength"
+  ]
+}
